@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/utilisateur/Documents/GitHub/MLOps/Part_1/mlruns/0/eec26997fe384138afe4d1a956523238/artifacts
+end_time: 1675940317686
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eec26997fe384138afe4d1a956523238
+run_name: Modele_Aleatoire
+run_uuid: eec26997fe384138afe4d1a956523238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675940317655
+status: 3
+tags: []
+user_id: utilisateur
