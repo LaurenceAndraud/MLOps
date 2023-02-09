@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/utilisateur/Documents/GitHub/MLOps/Part_1/mlruns/560498041947254072/a9faec85a74442338e5ddf916e2751ec/artifacts
+end_time: 1675947151606
+entry_point_name: ''
+experiment_id: '560498041947254072'
+lifecycle_stage: active
+run_id: a9faec85a74442338e5ddf916e2751ec
+run_name: GaussianNB
+run_uuid: a9faec85a74442338e5ddf916e2751ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675947151417
+status: 3
+tags: []
+user_id: utilisateur

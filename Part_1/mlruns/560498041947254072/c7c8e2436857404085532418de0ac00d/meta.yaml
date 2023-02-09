@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/utilisateur/Documents/GitHub/MLOps/Part_1/mlruns/560498041947254072/c7c8e2436857404085532418de0ac00d/artifacts
+end_time: 1675952984337
+entry_point_name: ''
+experiment_id: '560498041947254072'
+lifecycle_stage: active
+run_id: c7c8e2436857404085532418de0ac00d
+run_name: Multilayer Perceptron
+run_uuid: c7c8e2436857404085532418de0ac00d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675952953442
+status: 3
+tags: []
+user_id: utilisateur

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/utilisateur/Documents/GitHub/MLOps/Part_1/mlruns/560498041947254072/2627afb9e27f41b09be0dee180271af4/artifacts
+end_time: 1675947151014
+entry_point_name: ''
+experiment_id: '560498041947254072'
+lifecycle_stage: active
+run_id: 2627afb9e27f41b09be0dee180271af4
+run_name: LinearDiscriminantAnalysis
+run_uuid: 2627afb9e27f41b09be0dee180271af4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675947150822
+status: 3
+tags: []
+user_id: utilisateur

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/utilisateur/Documents/GitHub/MLOps/Part_1/mlruns/560498041947254072/4ce352be7fb248da91d9969b2acae721/artifacts
+end_time: 1675950377363
+entry_point_name: ''
+experiment_id: '560498041947254072'
+lifecycle_stage: active
+run_id: 4ce352be7fb248da91d9969b2acae721
+run_name: My_Conditional_Model
+run_uuid: 4ce352be7fb248da91d9969b2acae721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675950377295
+status: 4
+tags: []
+user_id: utilisateur

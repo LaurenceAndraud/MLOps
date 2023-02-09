@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/utilisateur/Documents/GitHub/MLOps/Part_1/mlruns/560498041947254072/d11489548b5e46859b4c5625e8b39ac2/artifacts
+end_time: 1675947151201
+entry_point_name: ''
+experiment_id: '560498041947254072'
+lifecycle_stage: active
+run_id: d11489548b5e46859b4c5625e8b39ac2
+run_name: KNeighborsClassifier
+run_uuid: d11489548b5e46859b4c5625e8b39ac2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675947151024
+status: 3
+tags: []
+user_id: utilisateur

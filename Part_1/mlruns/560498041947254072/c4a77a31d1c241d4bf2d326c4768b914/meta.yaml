@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/utilisateur/Documents/GitHub/MLOps/Part_1/mlruns/560498041947254072/c4a77a31d1c241d4bf2d326c4768b914/artifacts
+end_time: 1675947151816
+entry_point_name: ''
+experiment_id: '560498041947254072'
+lifecycle_stage: active
+run_id: c4a77a31d1c241d4bf2d326c4768b914
+run_name: SVM
+run_uuid: c4a77a31d1c241d4bf2d326c4768b914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675947151616
+status: 3
+tags: []
+user_id: utilisateur
